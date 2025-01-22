@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @cranda98
+- 👀 I’m interested in birds, video games, sci-fi books, and felting!
+- 🌱 I’m currently learning Data Science at MSU
+- 💞️ I’m looking to collaborate on data analysis, AI modeling, and anything to help me further develop my programming skills!
+- 📫 You can reach me at cranda98@msu.edu
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I run a social media account called @two.green.floofs!
