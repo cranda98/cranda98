@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @cranda98
-- 👀 I’m interested in birds, video games, sci-fi books, and felting!
-- 🌱 I’m currently learning Data Science at MSU
-- 💞️ I’m looking to collaborate on data analysis, AI modeling, and anything to help me further develop my programming skills!
-- 📫 You can reach me at cranda98@msu.edu
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I run a social media account called @two.green.floofs!
+👋 Hi, I’m Lauryn Crandall (@cranda98)
+📊 Data Science student at Michigan State University focused on data cleaning, analytics, pipelines, and educational data systems
+🐦 Interests: birds, wildlife, gaming, and sci-fi books
+🤝 Open to collaborating on data analysis, Python projects, and educational technology tools
+📫 Contact: cranda98@msu.edu
