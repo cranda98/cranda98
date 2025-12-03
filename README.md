@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Lauryn Crandall 👋</h1>
 
 <p align="center">
-  🌿 <strong>Data Science student at Michigan State University</strong><br>
-  📊 Focused on <strong>data cleaning, analytics, pipelines, and educational data systems</strong><br>
+  <strong>Data Science student at Michigan State University</strong><br>
+  Focused on <strong>data cleaning, analytics, pipelines, and educational data systems</strong><br>
 </p>
 
 ---
