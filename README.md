@@ -7,17 +7,17 @@
 
 ---
 
-### 👀 About Me  
-- 🐦 Interests: birds, wildlife, gaming, sci-fi books  
-- 💻 Passionate about: data analysis, educational datasets, AI modeling  
-- 🤝 Open to collaborating on: Python projects, data workflows, ed-tech tools  
-- 📫 Contact: <a href="mailto:cranda98@msu.edu">cranda98@msu.edu</a>  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I run a bird-themed social media account—**@two.green.floofs**!
+### About Me  
+- Interests: birds, wildlife, gaming, sci-fi books  
+- Passionate about: data analysis, educational datasets, AI modeling  
+- Open to collaborating on: Python projects, data workflows, ed-tech tools  
+- Contact: <a href="mailto:cranda98@msu.edu">cranda98@msu.edu</a>  
+- Pronouns: she/her  
+- Fun fact: I run a bird-themed social media account—**@two.green.floofs**!
 
 ---
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 - Python (pandas, numpy, json)
 - Data Cleaning & Pipelines
 - Educational Data Systems
@@ -26,10 +26,9 @@
 
 ---
 
-### 📌 Featured Projects  
-- 🔹 **MSU Curriculum Mapping Tool** — automated parsing + visualization of course dependencies  
-- 🔹 **Educational Log Analysis** — exploring teacher/student event datasets using Python  
-- 🔹 **Visualization Dashboards** — creating clear insights from complex datasets  
+### Featured Projects  
+- **MSU Curriculum Mapping Tool** — automated parsing + visualization of course dependencies  
+- **Educational Log Analysis** — exploring teacher/student event datasets using Python  
 
 ---
 
