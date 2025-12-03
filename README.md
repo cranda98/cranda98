@@ -13,7 +13,7 @@
 - Open to collaborating on: Python projects, data workflows, ed-tech tools  
 - Contact: <a href="mailto:cranda98@msu.edu">cranda98@msu.edu</a>  
 - Pronouns: she/her  
-- Fun fact: I run a bird-themed social media account—**@two.green.floofs**!
+- Fun fact: I run a bird-themed social media account!
 
 ---
 
