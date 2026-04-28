@@ -13,8 +13,7 @@
 ---
 
 ### About Me  
-- 🐦 Interests: birds, wildlife, gaming, sci-fi books  
-- 📊 Passionate about: data analysis, educational datasets, AI modeling, cloud computing
+- 🐦 Interests: birds, wildlife, video games, mtg, sci-fi media  
 - 🤝 Open to collaborating on: Python projects, data workflows, ed-tech tools, ML models
 - 📫 Contact: <a href="mailto:cranda98@msu.edu">cranda98@msu.edu</a>  
 - 👋 Pronouns: she/her  
@@ -52,9 +51,10 @@
 ---
 
 ### What I'm Currently Learning
-- 🚀 AWS Cloud Computing (SageMaker, Athena, S3)
-- 🤖 Machine Learning model validation and deployment
-- 📊 Advanced data visualization
+- AWS Cloud Computing (SageMaker, Athena, S3)
+- SQL
+- Machine Learning model validation and deployment
+- Advanced data visualization
 
 ---
 
