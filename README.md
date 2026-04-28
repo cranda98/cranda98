@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lauryn Crandall 👋</h1>
 
 <p align="center">
-  <strong>Recent Data Science Graduate from Michigan State University 🎓</strong><br>
+  <strong>Recent Data Science Graduate from Michigan State University </strong><br>
   Focused on <strong>data cleaning, analytics, pipelines, AWS cloud computing, and educational data systems</strong><br>
 </p>
 
