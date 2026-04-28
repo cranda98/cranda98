@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lauryn Crandall 👋</h1>
-
+  <sub>⚡ "Clean data, clear insights" ⚡</sub>
 <p align="center">
   <strong>Recent Data Science Graduate from Michigan State University 🎓</strong><br>
   Focused on <strong>data cleaning, analytics, pipelines, AWS cloud computing, and educational data systems</strong><br>
@@ -60,5 +60,4 @@
 
 <p align="center">
   <i>Thanks for visiting! 😊</i><br>
-  <sub>⚡ "Clean data, clear insights" ⚡</sub>
 </p>
