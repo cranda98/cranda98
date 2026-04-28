@@ -1,12 +1,15 @@
-# Hi, I'm Lauryn Crandall 👋
+<h1 align="center">Hi, I'm Lauryn Crandall 👋</h1>
 
-<h3 align="center">"Clean data, clear insights"</h3>
+<p align="center">
+  <strong>Recent Data Science Graduate from Michigan State University 🎓</strong><br>
+  Focused on <strong>data cleaning, analytics, pipelines, AWS cloud computing, and educational data systems</strong><br>
+</p>
 
-**Recent Data Science Graduate from Michigan State University 🏆**<br>
-Focused on data cleaning, analytics, pipelines, AWS cloud computing, and educational data systems
-
-[📧 Email](mailto:cranda98@msu.edu) • [🐙 GitHub](https://github.com/cranda98) • [🔗 LinkedIn](https://linkedin.com/in/lauryncrandall)
-
+<p align="center">
+  <a href="mailto:cranda98@msu.edu">📧 Email</a> •
+  <a href="https://github.com/cranda98">🐙 GitHub</a> •
+  <a href="[your-linkedin-url]">🔗 LinkedIn</a>
+</p>
 ---
 
 ### About Me  
@@ -57,4 +60,5 @@ Focused on data cleaning, analytics, pipelines, AWS cloud computing, and educati
 
 <p align="center">
   <i>Thanks for visiting! 😊</i><br>
+  <sub>⚡ "Clean data, clear insights" ⚡</sub>
 </p>
