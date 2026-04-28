@@ -10,6 +10,7 @@
   <a href="https://github.com/cranda98">🐙 GitHub</a> •
   <a href="[your-linkedin-url]">🔗 LinkedIn</a>
 </p>
+
 ---
 
 ### About Me  
